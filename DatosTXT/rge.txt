@@ -1,0 +1,2 @@
+USUARIO= rge
+CLAVE= 2
